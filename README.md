@@ -15,7 +15,7 @@
 * python train.py
 
 # Testing
-* python eval.pt
+* python eval.py
 
 # Evaluation metrics
 * ./scripts/PSNR.py
